@@ -6,6 +6,9 @@ Consumer Behaviour Analysis Project
 This project focuses on analyzing customer purchasing behavior to uncover insights that can help businesses understand their customers better and improve decision-making. The analysis includes data cleaning, data exploration, SQL-based analysis, and interactive dashboard visualization.
 The goal of this project is to identify customer trends such as purchasing patterns, product category performance, customer demographics, and payment preferences.
 
+## Dashboard Image
+![Dashboard](CBA.png)
+
 ## Project Workflow
 ## 1. Data Cleaning and Preprocessing (Python)
 
