@@ -7,7 +7,9 @@ This project focuses on analyzing customer purchasing behavior to uncover insigh
 The goal of this project is to identify customer trends such as purchasing patterns, product category performance, customer demographics, and payment preferences.
 
 ## Dashboard Image
-![Dashboard](CBA.png)
+## Power BI Dashboard
+
+![Customer Behaviour Dashboard](CBA.PNG)
 
 ## Project Workflow
 ## 1. Data Cleaning and Preprocessing (Python)
